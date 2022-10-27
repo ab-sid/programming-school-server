@@ -1,0 +1,231 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "total_view": 488,
+    "title": "The HTML element is everything from the start tag to the end tag",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://assets.digitalocean.com/django_gunicorn_nginx_2004/articles/new_learners/html-element-diagram.png",
+    "details": "An HTML element is defined by a start tag, some content, and an end tag.The HTML element is everything from the start tag to the end tag.Some HTML elements have no content (like the <br> element). These elements are called empty elements. Empty elements do not have an end tag!HTML elements can be nested (this means that elements can contain other elements).All HTML documents consist of nested HTML elements.The <html> element is the root element and it defines the whole HTML document."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "03",
+    "total_view": 488,
+    "title": "JavaScript Functions",
+    "author": {
+      "name": "Jimmy Dane",
+      "published_date": "2022-08-24 17:27:34",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--XVwxpItN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/abwxzse57lyr8mqg7521.jpg",
+    "details": "A JavaScript function is a block of code designed to perform a particular task.A JavaScript function is executed when something invokes it (calls it).Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).The parentheses may include parameter names separated by commas.Function parameters are listed inside the parentheses () in the function definition.Inside the function, the arguments (the parameters) behave as local variables."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "01",
+    "total_view": 400,
+    "title": "The comment tag is used to insert comments in the source code",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://amiradata.com/wp-content/uploads/2020/04/html-comments-e1586860890554.png",
+    "details": "HTML comments are not displayed in the browser, but they can help document your HTML source code.Comments are not displayed by the browser, but they can help document your HTML source code.With comments you can place notifications and reminders in your HTML code.Comments can be used to hide content.This can be helpful if you hide content temporarily.You can also hide more than one line. Everything between the <!-- and the --> will be hidden from the display.Comments are also great for debugging HTML, because you can comment out HTML lines of code, one at a time, to search for errors."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "category_id": "02",
+    "total_view": 400,
+    "title": "A CSS selector selects the HTML element(s) you want to style.",
+    "author": {
+      "name": "Jennifer Wood",
+      "published_date": "2022-08-30 16:38:45",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2019/09/Types-of-CSS-Selectors.png",
+    "details": "In CSS, selectors are used to target the HTML elements on our web pages that we want to style. There are a wide variety of CSS selectors available, allowing for fine-grained precision when selecting elements to style. In this article and its sub-articles we'll run through the different types in great detail, seeing how they work."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "03",
+    "total_view": 980,
+    "title": "JavaScript Arrays",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--sJAKRYWz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/el3mongvcpfji7xylkgv.png",
+    "details": "An array is a special variable, which can hold more than one value.However, what if you want to loop through the cars and find a specific one? And what if you had not 3 cars, but 300?The solution is an array!An array can hold many values under a single name, and you can access the values by referring to an index number.With JavaScript, the full array can be accessed by referring to the array name"
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "01",
+    "total_view": 980,
+    "title": "HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-24 23:15:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg",
+    "details": "HTML color codes are hexadecimal triplets representing the colors red, green, and blue (#RRGGBB). For example, in the color red, the color code is #FF0000, which is '255' red, '0' green, and '0' blue. There are 16,777,216 possible HTML color codes, and all are visible on a 24-bit display.These color codes can change the color of the background, text, and tables on a web page. They can also reference exact colors in photo editing programs like Adobe Photoshop."
+  },
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "category_id": "02",
+    "total_view": null,
+    "title": "The CSS border properties allow you to specify the style, width, and color of an element's border",
+    "author": {
+      "name": null,
+      "published_date": "2022-08-30 15:00:04",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2020/05/Border-Images-in-CSS.jpg",
+    "details": "As with all shorthand properties, any omitted sub-values will be set to their initial value. Importantly, border cannot be used to specify a custom value for border-image, but instead sets it to its initial value, i.e., none.The border shorthand is especially useful when you want all four borders to be the same. To make them different from each other, however, you can use the longhand border-width, border-style, and border-color properties, which accept different values for each side. Alternatively, you can target one border at a time with the physical (e.g., border-top ) and logical (e.g., border-block-start) border properties."
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category_id": "04",
+    "rating": {
+      "number": 4.5,
+      "badge": "Excellent"
+    },
+    "total_view": 733,
+    "title": "PHP Syntax",
+    "author": {
+      "name": "Theo Minh Châu",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://media.istockphoto.com/photos/programming-source-code-abstract-background-picture-id1047259374?b=1&k=20&m=1047259374&s=170667a&w=0&h=6ER4n81WAjZ-1X-RQwbhJcSeNGiqGJLLdawL1xLIWl0=",
+    "details": "A PHP script is executed on the server, and the plain HTML result is sent back to the browser.A PHP file normally contains HTML tags, and some PHP scripting code.In PHP, keywords (e.g. if, else, while, echo, etc.), classes, functions, and user-defined functions are not case-sensitive."
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "category_id": "04",
+    "total_view": 733,
+    "title": "PHP Math",
+    "author": {
+      "name": "Theo Minh Châu",
+      "published_date": "2022-08-25 06:03:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://i.pinimg.com/736x/2a/d5/95/2ad59597d28feb1bbf80bdfb15351a87.jpg",
+    "details": "PHP has a set of math functions that allows you to perform mathematical tasks on numbers.The pi() function returns the value of PI.The min() and max() functions can be used to find the lowest or highest value in a list of arguments.The abs() function returns the absolute (positive) value of a number.The sqrt() function returns the square root of a number.The round() function rounds a floating-point number to its nearest integer.To get more control over the random number, you can add the optional min and max parameters to specify the lowest integer and the highest integer to be returned."
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "category_id": "05",
+    "total_view": 127,
+    "title": "Python JSON",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://e6v4p8w2.rocketcdn.me/wp-content/uploads/2022/05/Convert-JSON-to-a-Python-Dictionary-Cover-Image.png",
+    "details": "JSON is a syntax for storing and exchanging data.JSON is text, written with JavaScript object notation.Python has a built-in package called json, which can be used to work with JSON data.If you have a JSON string, you can parse it by using the json.loads() method.If you have a Python object, you can convert it into a JSON string by using the json.dumps() method.When you convert from Python to JSON, Python objects are converted into the JSON (JavaScript) equivalent"
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "category_id": "05",
+    "total_view": 127,
+    "title": "Python RegEx",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://i.ytimg.com/vi/zN8rwVXwRUE/maxresdefault.jpg",
+    "details": "A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.RegEx can be used to check if a string contains the specified search pattern.Python has a built-in package called re, which can be used to work with Regular Expressions.When you have imported the re module, you can start using regular expressions."
+  },
+  {
+    "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+    "category_id": "06",
+    "total_view": 300,
+    "title": "C++ Pointers",
+    "author": {
+      "name": "",
+      "published_date": "2022-08-24 22:30:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGEIA_ZAQ1YKY2tZ6AosdO-tTBn5Z55sP6kEp0BAv_1A&s",
+    "details": "You learned from the previous chapter, that we can get the memory address of a variable by using the & operator.A pointer however, is a variable that stores the memory address as its value.A pointer variable points to a data type (like int or string) of the same type, and is created with the * operator. The address of the variable you're working with is assigned to the pointer.Create a pointer variable with the name ptr, that points to a string variable, by using the asterisk sign * (string* ptr). Note that the type of the pointer has to match the type of the variable you're working with."
+  },
+  {
+    "_id": "7c4dfea0fafddc813673282a428429b7",
+    "category_id": "01",
+    "total_view": 0,
+    "title": "HTML tables allow web developers to arrange data into rows and columns.",
+    "author": {
+      "name": "Reuters",
+      "published_date": "2022-08-25 03:09:16",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://www.freecodecamp.org/news/content/images/2021/09/uide-to-writting-a-good-readme-file--7-.png",
+    "details": "A table is a representation of data arranged in rows and columns. Really, it's more like a spreadsheet. In HTML, with the help of tables, you can arrange data like images, text, links and so on into rows and columns of cells.The use of tables in the web has become more popular recently because of the amazing HTML table tags that make it easier to create and design them.To create a table in HTML you will need to use tags. The most important one is the <table> tag which is the main container of the table. It shows where the table will begin and where it ends."
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "category_id": "01",
+    "total_view": 320,
+    "title": "HTML lists allow web developers to group a set of related items in lists",
+    "author": {
+      "name": "John Pike",
+      "published_date": "2022-08-25 07:35:11",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://www.freecodecamp.org/news/content/images/2021/07/freeCodeCamp-Cover-1.png",
+    "details": "HTML offers web authors three ways for specifying lists of information. All lists must contain one or more list elements.An unordered list is a collection of related items that have no special order or sequence. This list is created by using HTML <ul> tag. Each item in the list is marked with a bullet.You can use type attribute for <ul> tag to specify the type of bullet you like. By default, it is a disc.If you are required to put your items in a numbered list instead of bulleted, then HTML ordered list will be used. This list is created by using <ol> tag. The numbering starts at one and is incremented by one for each successive ordered list element tagged with <li>."
+  },
+  {
+    "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+    "category_id": "06",
+    "total_view": 354,
+    "title": "C++ Structures",
+    "author": {
+      "name": "Presstv",
+      "published_date": "2022-08-30 17:44:16",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://miro.medium.com/max/1200/1*KpDOKMFAgDWaGTQHL0r70g.png",
+    "details": "Structures (also called structs) are a way to group several related variables into one place. Each variable in the structure is known as a member of the structure.To create a structure, use the struct keyword and declare each of its members inside curly braces.After the declaration, specify the name of the structure variable.You can use a comma (,) to use one structure in many variables.By giving a name to the structure, you can treat it as a data type. This means that you can create variables with this structure anywhere in the program at any time."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "category_id": "05",
+    "total_view": 100,
+    "title": "Python Modules",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/11/blog_Top-10-Python-Librarie-1.jpg",
+    "details": "Consider a module to be the same as a code library.A file containing a set of functions you want to include in your application.To create a module just save the code you want in a file with the file extension .py.Now we can use the module we just created, by using the import statement.The module can contain functions, as already described, but also variables of all types (arrays, dictionaries, objects etc)"
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "category_id": "04",
+    "total_view": 100,
+    "title": "PHP switch Statement",
+    "author": {
+      "name": "system",
+      "published_date": "2022-08-26 00:37:24",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZSjG_tSF8IsElSobmCoGkb__-nJ3pQGUCc_bd06vSQ&s",
+    "details": "The switch statement is used to perform different actions based on different conditions.Use the switch statement to select one of many blocks of code to be executed.This is how it works: First we have a single expression n (most often a variable), that is evaluated once. The value of the expression is then compared with the values for each case in the structure. If there is a match, the block of code associated with that case is executed. Use break to prevent the code from running into the next case automatically. The default statement is used if no match is found."
+  }
+]

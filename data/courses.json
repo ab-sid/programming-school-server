@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "course_name": "HTML",
+        "image": "https://html.com/wp-content/uploads/html-hpg-featured-new.png"
+    },
+    {
+        "id": "02",
+        "course_name": "CSS",
+        "image": "https://i.ytimg.com/vi/6vbgZnQrpbU/maxresdefault.jpg"
+    },
+    {
+        "id": "03",
+        "course_name": "JAVASCRIPT",
+        "image": "https://image.shutterstock.com/image-vector/programmers-using-javascript-programming-language-260nw-1331328194.jpg"
+    },
+    {
+        "id": "04",
+        "course_name": "PHP",
+        "image": "https://image.shutterstock.com/image-photo/business-technology-internet-network-concept-260nw-2111313359.jpg"
+    },
+    {
+        "id": "05",
+        "course_name": "PYTHON",
+        "image": "https://timelinecovers.pro/facebook-cover/download/python-programming-hello-world-facebook-cover.jpg"
+    },
+    {
+        "id": "06",
+        "course_name": "C++",
+        "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6bJ-sMxx--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/h2917prj7ldo0ow5x5ih.png"
+    }
+]
