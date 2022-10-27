@@ -8,6 +8,9 @@ const courseDetails = require('./data/courseDetails.json');
 
 app.use(cors());
 
+app.get('/', (req, res) => {
+    res.send('Hello World!')
+})
 
 app.get('/courses', (req, res) => {
     res.send(courses)
@@ -32,5 +35,5 @@ app.get('/check_out/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
+    console.log(`Assignment-10 on port ${port}`)
 })
