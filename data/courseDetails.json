@@ -227,5 +227,18 @@
     },
     "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZSjG_tSF8IsElSobmCoGkb__-nJ3pQGUCc_bd06vSQ&s",
     "details": "The switch statement is used to perform different actions based on different conditions.Use the switch statement to select one of many blocks of code to be executed.This is how it works: First we have a single expression n (most often a variable), that is evaluated once. The value of the expression is then compared with the values for each case in the structure. If there is a match, the block of code associated with that case is executed. Use break to prevent the code from running into the next case automatically. The default statement is used if no match is found."
-  }
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "category_id": "05",
+    "total_view": 127,
+    "title": "Python RegEx",
+    "author": {
+      "name": "Ukrainska Pravda",
+      "published_date": "2022-08-25 18:53:49",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://i.ytimg.com/vi/zN8rwVXwRUE/maxresdefault.jpg",
+    "details": "A RegEx, or Regular Expression, is a sequence of characters that forms a search pattern.RegEx can be used to check if a string contains the specified search pattern.Python has a built-in package called re, which can be used to work with Regular Expressions.When you have imported the re module, you can start using regular expressions."
+  },
 ]
